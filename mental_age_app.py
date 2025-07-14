@@ -70,3 +70,4 @@ if st.button("Guess My Mental Age"):
 
     st.success(f"🧠 Your estimated mental age is: {mental_age} years!")
     st.markdown("**✨ CREATED BY HADHI ✨**")
+    st.markdown("**✨  VYSHNAV satheesh ✨**")
